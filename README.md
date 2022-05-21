@@ -1,6 +1,5 @@
 # EpicGames Freebies Claimer
-![image](https://user-images.githubusercontent.com/4411977/74479432-6a6d1b00-4eaf-11ea-930f-1b89e7135887.png)
-
+鉴于epic开了强制人工验证 本项目暂时失效 作者更新中 您可以去搜索其他的有效的epic自动领取程序（需要docker）
 ## Description
 Claim [available free game promotions](https://www.epicgames.com/store/free-games) from the Epic Games Store.
 
